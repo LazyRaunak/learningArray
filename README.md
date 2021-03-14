@@ -13,3 +13,8 @@ Find characters/ string in Array using:
 2. Copying using char pointer & strcpy() method
 3. Copying using string variable & for loop
 4. Using string array
+
+# BasicOperation.cpp
+1. Pushing an element
+2. Popping an element
+3. Removing an element
